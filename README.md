@@ -1,1 +1,2 @@
 # NOAA-DATASET-CSV
+# HYBRID-ML-BASED-SUB-SEASONAL-WEATHER-FORECASTING Overview This repository documents the entire workflow from data acquisition to model deployment. The primary objective is to predict key meteorological variables—particularly the arithmetic mean of future temperature extremes—using a hybrid approach that combines the strengths of physics-based forecasting and data-driven machine learning methods. The work includes extensive data preprocessing, exploratory data analysis (EDA), feature engineering, and experimentation with multiple regression models. 
