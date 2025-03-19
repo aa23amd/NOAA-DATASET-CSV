@@ -1,0 +1,28 @@
+pip install -r requirements.txt
+# Numerical and Data Manipulation
+numpy>=1.18.0
+pandas>=1.0.0
+
+# Data Visualization
+matplotlib>=3.2.0
+seaborn>=0.10.0
+plotly>=5.0.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+lightgbm>=3.0.0
+xgboost>=1.3.0
+catboost>=0.26.0
+statsmodels>=0.12.0
+joblib>=1.0.0
+
+# Jupyter Environment
+jupyterlab>=3.0.0
+
+# Kaggle API (if needed)
+kaggle>=1.5.12
+
+# Deep Learning for LSTM Models
+tensorflow>=2.4.0
+# Google Colab utilities (optional if running outside Colab)
+google-colab>=2.0.0
